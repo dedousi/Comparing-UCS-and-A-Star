@@ -2,7 +2,7 @@
 Problem Statement: 
 <br>
 You have a list of N positions filled with the numbers 1 to N (each appearing once). The goal is to sort them in ascending order, starting from an initial state provided by the user. The final state is [1, 2, ..., N].
-<br>
+<br> <br>
 Transition Operators: 
 <br>
 Given a state a=[a1,...,aN]a=[a1​,...,aN​], applying the operator T(k)T(k) (for 2≤k≤N2≤k≤N) results in a new state bb:
