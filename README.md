@@ -1,4 +1,4 @@
-# This is a problem that uses UCS and A* algorithms to get solved.
+# This is a problem that uses UCS and A* algorithms to get solved. Then, it compares the two algorithms.
 Problem Statement: 
 <br>
 You have a list of N positions filled with the numbers 1 to N (each appearing once). The goal is to sort them in ascending order, starting from an initial state provided by the user. The final state is [1, 2, ..., N].
