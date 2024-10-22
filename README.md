@@ -3,7 +3,9 @@ Problem Statement:
 <br>
 You have a list of N positions filled with the numbers 1 to N (each appearing once). The goal is to sort them in ascending order, starting from an initial state provided by the user. The final state is [1, 2, ..., N].
 <br>
-Transition Operators: Given a state a=[a1,...,aN]a=[a1​,...,aN​], applying the operator T(k)T(k) (for 2≤k≤N2≤k≤N) results in a new state bb:
+Transition Operators: 
+<br>
+Given a state a=[a1,...,aN]a=[a1​,...,aN​], applying the operator T(k)T(k) (for 2≤k≤N2≤k≤N) results in a new state bb:
 <br>
     Split aa into aL=[a1,...,ak]aL​=[a1​,...,ak​] and aR=[ak+1,...,aN]aR​=[ak+1​,...,aN​]. <br>
     Reverse aLaL​ to get raLraL​. <br>
